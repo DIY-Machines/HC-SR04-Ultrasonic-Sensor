@@ -1,7 +1,12 @@
 # HC-SR04 Ultrasonic Sensor
 What it is, how to use it and when to use it.
 
-more informaiton availabe here: https://www.diymachines.co.uk/  <<page to be created still>>
+[![Watch the video](https://img.youtube.com/vi/1E4TDZC-xaY/maxresdefault.jpg)](https://youtu.be/1E4TDZC-xaY)
+
+
+More informaiton availabe here: https://www.diymachines.co.uk/  -page to be created still
+
+
 Video designed to go along with this code: https://youtu.be/1E4TDZC-xaY
 
 ==========
